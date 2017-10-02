@@ -1,6 +1,6 @@
 # Java-Example-Code
 
-Listed below are the file names of what I programmed. Everything else present in the homework folders is code provded by the professor.
+Listed below are the file names of what I programmed. Everything else present in the homework folders is code provided by the professor.
 
 Homework_1
   - MyDoublyLinkedList.java
