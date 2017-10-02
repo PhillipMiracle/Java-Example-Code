@@ -1,0 +1,15 @@
+Number of projects available: 1000
+Employee work weeks available: 40
+Liquidity available: 100
+Number of projects chosen: 10
+Total profit: 312
+Project85 2 15 33
+Project157 3 11 29
+Project233 4 8 24
+Project282 5 12 39
+Project401 6 16 39
+Project669 3 14 34
+Project733 7 8 41
+Project770 6 3 37
+Project838 1 3 11
+Project939 2 10 25
